@@ -1,5 +1,5 @@
 # Edgar-1.0
-Lokaler KI Chat, inspiriert vom Film Electric Dreamsq
+Lokaler KI Chat, inspiriert vom Film Electric Dreams
 EDGAR 1.0
 
 Ein kleiner, lokaler KI-Assistent für den Mac.
