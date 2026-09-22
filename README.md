@@ -135,4 +135,42 @@ Aber genau darum geht es.
 
 Ausprobieren. Lernen. Verändern. Selber machen.
 
+## Ausführbare Datei erstellen
+
+Voraussetzungen:
+- Python 3.14 oder neuer
+- PyInstaller
+
+Im Terminal in den Projektordner wechseln:
+
+```bash
+cd /Pfad/zu/Edgar
+```
+
+PyInstaller installieren:
+
+```bash
+python3 -m pip install pyinstaller
+```
+
+Ausführbare Datei erstellen:
+
+```bash
+python3 -m PyInstaller --onefile Edgar1.py
+```
+
+Die fertige ausführbare Datei befindet sich anschließend im Ordner:
+
+```text
+dist/
+```
+
+`mimir_engine.py` und `mimir_model_manager.py` müssen sich beim Erstellen im selben Projektordner wie `Edgar1.py` befinden. PyInstaller bindet die von `Edgar1.py` verwendeten Python-Dateien automatisch ein.
+
+Die ausführbare Datei kann anschließend direkt aus dem Terminal gestartet werden:
+
+```bash
+./dist/Edgar1
+```
+
 Viel Spaß mit EDGAR!
