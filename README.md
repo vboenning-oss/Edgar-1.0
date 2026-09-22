@@ -1,5 +1,7 @@
 # Edgar-1.0
-Lokaler KI Chat, inspiriert vom Film Electric Dreams
+Lokaler KI Chat, inspiriert vom Film Electric Dreams<img width="1408" height="881" alt="SCR-20260922-rque" src="https://github.com/user-attachments/assets/12db3107-3c83-4c40-a0e5-d8916ba8f8f6" />
+<img width="1408" height="881" alt="SCR-20260922-rpdb" src="https://github.com/user-attachments/assets/2d19bbe0-fd58-4f99-ba5d-11440ffdbd0f" />
+
 EDGAR 1.0
 
 Ein kleiner, lokaler KI-Assistent für den Mac.
