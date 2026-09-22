@@ -125,7 +125,10 @@ Ein eigenes kleines KI-System bauen, verstehen, ausprobieren und immer weiter ve
 
 Das Projekt begann ohne Programmiererfahrung und entwickelte sich Schritt für Schritt zu einer eigenständigen lokalen Anwendung.
 
-Vielleicht ist EDGAR deshalb nicht perfekt.
+Vielleicht ist EDGAR deshalb nicht perfekt. ( zB 
+dauert die Initialisierung des Sprachmodells schon
+seine Zeit, erst ab der zweiten eingegebenen Frage 
+läuft ws rund)
 
 Aber genau darum geht es.
 
