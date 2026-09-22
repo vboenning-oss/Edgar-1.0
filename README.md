@@ -167,9 +167,10 @@ dist/
 
 `mimir_engine.py` und `mimir_model_manager.py` müssen sich beim Erstellen im selben Projektordner wie `Edgar1.py` befinden. PyInstaller bindet die von `Edgar1.py` verwendeten Python-Dateien automatisch ein.
 
-Die ausführbare Datei kann anschließend direkt aus dem Terminal gestartet werden:
+Die ausführbare Datei startet direkt das Terminal. Beim Erststart wirst du gefragt, ob du das Sprachmodell downloaden möchtest. Ohne geht es leider nicht.
 
-```bash
+
+Edgar befindet sich dann im Ordner mit den Codedateien Im Ordner:
 ./dist/Edgar1
 ```
 
