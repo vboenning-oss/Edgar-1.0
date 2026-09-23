@@ -6,8 +6,8 @@ EDGAR 1.0
 
 Ein kleiner, lokaler KI-Assistent für den Mac.
 
-EDGAR ist ein lokaler KI-Assistent, der derzeit für macOS entwickelt wurde und auf einem kompatiblen Mac ausgeführt werden kann.
-
+EDGAR ist ein lokaler KI-Assistent, der derzeit für macOS entwickelt wird und auf einem kompatiblen Mac ausgeführt werden kann.
+( mind. M1, 8gb Arbeitsspeicher, 10gb Festplattenplatz )
 EDGAR entstand aus einem privaten Lern- und Bastelprojekt und wurde ursprünglich unter dem Namen MIMIR entwickelt.
 
 Created by Volker — Started with no programming experience.
