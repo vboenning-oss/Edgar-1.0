@@ -77,7 +77,7 @@ def chat(messages):
         "model": "gemma-3-4b",
         "messages": messages,
         "temperature": 0.7,
-        "max_tokens": 130,
+        "max_tokens": 800,
         "stream": True,
     }
 
@@ -133,7 +133,7 @@ def chat_once(messages):
         "model": "gemma-3-4b",
         "messages": messages,
         "temperature": 0.7,
-        "max_tokens": 130,
+        "max_tokens": 800,
         "stream": False,
     }
 
