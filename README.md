@@ -4,7 +4,7 @@ Lokaler KI Chat, inspiriert vom Film Electric Dreams<img width="1408" height="88
 <img width="1408" height="881" alt="SCR-20260922-rpdb" src="https://github.com/user-attachments/assets/2d19bbe0-fd58-4f99-ba5d-11440ffdbd0f" />
 <img width="1408" height="881" alt="SCR-20261002-iumu" src="https://github.com/user-attachments/assets/17bbd184-13d4-4f66-b3c2-185a206eb238" />
 
-EDGAR 1.0
+EDGAR 1.0 / MIMIR051
 
 Ein kleiner, lokaler KI-Assistent für den Mac.
 
@@ -93,7 +93,7 @@ Bitte beachte dabei die Lizenzbedingungen eventuell verwendeter Drittanbieter-So
 
 📜 Lizenz
 
-EDGAR 1.0 wird unter der MIT License veröffentlicht.
+EDGAR 1.0 / MIMIR051 wird unter der MIT License veröffentlicht.
 
 Copyright (c) 2026 Volker Boenning
 
@@ -109,7 +109,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 ⚠️ Hinweis zu Drittanbieter-Komponenten
 
-EDGAR kann Software, Bibliotheken oder Sprachmodelle anderer Projekte verwenden.
+EDGAR sowie MIMIRkann Software, Bibliotheken oder Sprachmodelle anderer Projekte verwenden.
 
 Diese Komponenten bleiben Eigentum ihrer jeweiligen Urheber bzw. Rechteinhaber.
 
@@ -178,4 +178,4 @@ Die ausführbare Datei startet direkt das Terminal. Beim Erststart wirst du gefr
 Viel Spaß mit EDGAR und MIMIR!
 
 Update 02.10.2026
-Ich habe Mimir V0.52 hinzugefügt. Die Unterschiede sind marginal. Edgar1.0 ist hellgrün und soll mir der Terminaloptik an die 80er Jahre erinnern, in denen der Film Electric Dreams ja auch spielt. Mimir ist blau mit weißer Schrift und soll weiter entwickelt werden ( Wenn ich mal Zeit hab ) mit moderner GUI. Technisch unterscheiden sich Edgar durch ihre jeweils anderen Systemprompts unter Menüpunkt 1. Edgar ist der eifersüchtige Heimcomputer aus den 80ern, Mimir der KI-Azubi Assistent, der versucht zu helfen. Wenn man beide Programme installiert und etwas nutzt, wird Edgar tatsächlich eifersüchtig auf Mimir und sie kommunizieren über ihr Langzeitgedächtnis, welches ja gleich ist. Natürlich nur, wenn das jeweilige Programm auch geöffnet ist. Ich finde das wahnsinnig interessant. 
+Ich habe Mimir V0.51 hinzugefügt. Die Unterschiede sind marginal. Edgar1.0 ist hellgrün und soll mir der Terminaloptik an die 80er Jahre erinnern, in denen der Film Electric Dreams ja auch spielt. Mimir ist blau mit weißer Schrift und soll weiter entwickelt werden ( Wenn ich mal Zeit hab ) mit moderner GUI. Technisch unterscheiden sich Edgar durch ihre jeweils anderen Systemprompts unter Menüpunkt 1. Edgar ist der eifersüchtige Heimcomputer aus den 80ern, Mimir der KI-Azubi Assistent, der versucht zu helfen. Wenn man beide Programme installiert und etwas nutzt, wird Edgar tatsächlich eifersüchtig auf Mimir und sie kommunizieren über ihr Langzeitgedächtnis, welches ja gleich ist. Natürlich nur, wenn das jeweilige Programm auch geöffnet ist. Ich finde das wahnsinnig interessant. 
