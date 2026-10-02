@@ -3,6 +3,8 @@
 Lokaler KI Chat, inspiriert vom Film Electric Dreams<img width="1408" height="881" alt="SCR-20260922-rque" src="https://github.com/user-attachments/assets/12db3107-3c83-4c40-a0e5-d8916ba8f8f6" />
 <img width="1408" height="881" alt="SCR-20260922-rpdb" src="https://github.com/user-attachments/assets/2d19bbe0-fd58-4f99-ba5d-11440ffdbd0f" />
 <img width="1408" height="881" alt="SCR-20261002-iumu" src="https://github.com/user-attachments/assets/17bbd184-13d4-4f66-b3c2-185a206eb238" />
+<img width="1280" height="766" alt="SCR-20261002-prrn" src="https://github.com/user-attachments/assets/6b758cac-eee4-4816-a7c5-56fc2d2ee085" />
+
 
 EDGAR 1.0 / MIMIR051
 
