@@ -1,3 +1,4 @@
+<img width="1213" height="716" alt="SCR-20261002-ieln" src="https://github.com/user-attachments/assets/f7d388e0-6982-40d7-9a90-5cb02c669669" />
 # Edgar-1.0
 Lokaler KI Chat, inspiriert vom Film Electric Dreams<img width="1408" height="881" alt="SCR-20260922-rque" src="https://github.com/user-attachments/assets/12db3107-3c83-4c40-a0e5-d8916ba8f8f6" />
 <img width="1408" height="881" alt="SCR-20260922-rpdb" src="https://github.com/user-attachments/assets/2d19bbe0-fd58-4f99-ba5d-11440ffdbd0f" />
@@ -173,4 +174,7 @@ Die ausführbare Datei startet direkt das Terminal. Beim Erststart wirst du gefr
 
 
 
-Viel Spaß mit EDGAR!
+Viel Spaß mit EDGAR und MIMIR!
+
+Update 02.10.2026
+Ich habe Mimir V0.52 hinzugefügt. Die Unterschiede sind marginal. Edgar1.0 ist hellgrün und soll mir der Terminaloptik an die 80er Jahre erinnern, in denen der Film Electric Dreams ja auch spielt. Mimir ist blau mit weißer Schrift und soll weiter entwickelt werden ( Wenn ich mal Zeit hab ) mit moderner GUI. Technisch unterscheiden sich Edgar durch ihre jeweils anderen Systemprompts unter Menüpunkt 1. Edgar ist der eifersüchtige Heimcomputer aus den 80ern, Mimir der KI-Azubi Assistent, der versucht zu helfen. Wenn man beide Programme installiert und etwas nutzt, wird Edgar tatsächlich eifersüchtig auf Mimir und sie kommunizieren über ihr Langzeitgedächtnis, welches ja gleich ist. Natürlich nur, wenn das jeweilige Programm auch geöffnet ist. Ich finde das wahnsinnig interessant. 
