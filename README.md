@@ -183,4 +183,6 @@ Update 02.10.2026
 Ich habe Mimir V0.51 hinzugefügt. Die Unterschiede sind marginal. Edgar1.0 ist hellgrün und soll mir der Terminaloptik an die 80er Jahre erinnern, in denen der Film Electric Dreams ja auch spielt. Mimir ist blau mit weißer Schrift und soll weiter entwickelt werden ( Wenn ich mal Zeit hab ) mit moderner GUI. Technisch unterscheiden sich Edgar durch ihre jeweils anderen Systemprompts unter Menüpunkt 1. Edgar ist der eifersüchtige Heimcomputer aus den 80ern, Mimir der KI-Azubi Assistent, der versucht zu helfen. Wenn man beide Programme installiert und etwas nutzt, wird Edgar tatsächlich eifersüchtig auf Mimir und sie kommunizieren über ihr Langzeitgedächtnis, welches ja gleich ist. Natürlich nur, wenn das jeweilige Programm auch geöffnet ist. Ich finde das wahnsinnig interessant. 
 
 Update 14.10.2026
-Edgar1.py : im Systemprompt für Edgar wurde die Implementierung des Langzeitgedächtnisses azubi.json verbessert. Diese Änderung betrifft noch nicht die ausführbare Datei
+Edgar1.py : im Systemprompt für Edgar wurde die Implementierung des Langzeitgedächtnisses azubi.json verbessert. Diese Änderung betrifft noch nicht die ausführbare Datei.
+mimir_engine.py wurde dahingehend geändert, das die Zusammenfassung für das Gedächtnis jetzt auf 200 Tokens begrenzt ist. Außerdem wird die Zusammenfassung jetzt wie die Antworten gestreamt. Ein Programmfehler, der zum TimeOut-Error führen konnte, wurde entschärft.
+Beide Änderungen betreffen noch nicht die ZIP-Dateien!!
