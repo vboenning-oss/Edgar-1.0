@@ -186,3 +186,4 @@ Update 14.10.2026
 Edgar1.py : im Systemprompt für Edgar wurde die Implementierung des Langzeitgedächtnisses azubi.json verbessert. Diese Änderung betrifft noch nicht die ausführbare Datei.
 mimir_engine.py wurde dahingehend geändert, das die Zusammenfassung für das Gedächtnis jetzt auf 200 Tokens begrenzt ist. Außerdem wird die Zusammenfassung jetzt wie die Antworten gestreamt. Ein Programmfehler, der zum TimeOut-Error führen konnte, wurde entschärft.
 Beide Änderungen betreffen noch nicht die ZIP-Dateien!!
+Update 18.10.2026 Edgar01.zip wurde aktualisiert.
